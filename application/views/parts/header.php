@@ -74,7 +74,7 @@
                     <!-- Sidebar user panel (optional) -->
                     <div class="user-panel mt-3 pb-3 mb-3 d-flex">
                         <div class="image">
-                            <img src="http://rezan.stepsmandaluyong.com/resources/edda.jpg" alt="User Image">
+                            <img src="<?php echo base_url(); ?>/resources/rose.jpg" alt="User Image">
                         </div>
                         <div class="info">
                             <a href="#" class="d-block">Rosemarie Du Abraham</a>
