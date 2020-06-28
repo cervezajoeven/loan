@@ -85,7 +85,7 @@ if($HTTP_HOST=="localhost"){
 
   	$username = 'joeven';
   	$password = 'joeven241';
-  	$database = 'steps_rezan';
+  	$database = 'joeven_loan';
 }
 
 $db['default'] = array(

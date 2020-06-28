@@ -66,7 +66,7 @@
                 <a href="<?php echo site_url(); ?>" class="brand-link navbar-light">
                     <img src="<?php echo base_url(); ?>/resources/rezan_logo.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3"
                          style="opacity: .8">
-                    <span class="brand-text font-weight-light">Rezan Loan</span>
+                    <span class="brand-text font-weight-light">Mama Loan</span>
                 </a>
 
                 <!-- Sidebar -->
@@ -77,7 +77,7 @@
                             <img src="http://rezan.stepsmandaluyong.com/resources/edda.jpg" alt="User Image">
                         </div>
                         <div class="info">
-                            <a href="#" class="d-block">Eda Bacarro</a>
+                            <a href="#" class="d-block">Rosemarie Du Abraham</a>
                         </div>
                     </div>
 

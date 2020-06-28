@@ -27,7 +27,7 @@ date_default_timezone_set('Asia/Manila');
 $REQUEST_SCHEME = $_SERVER['REQUEST_SCHEME'];
 $HTTP_HOST = $_SERVER['HTTP_HOST'];
 if($HTTP_HOST=="localhost"){
-  $config['base_url'] = $REQUEST_SCHEME.'://'.$HTTP_HOST.'/rezan';
+  $config['base_url'] = $REQUEST_SCHEME.'://'.$HTTP_HOST.'/loan';
 }else{
   $config['base_url'] = $REQUEST_SCHEME.'://'.$HTTP_HOST.'/';
 }
